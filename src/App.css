@@ -5,3 +5,22 @@
 .box {
   margin-bottom: 20px;
 }
+
+.card {
+  height: 100%;
+}
+
+.card-image {
+  padding: 10px 40px;
+}
+
+.card-content .content ul {
+  list-style: none;
+  margin-left: 0px;
+}
+
+.box-shadow {
+  border: 1px solid;
+  padding: 10px;
+  box-shadow: 3px 5px #888888;
+}

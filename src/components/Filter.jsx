@@ -3,14 +3,26 @@ import React from 'react';
 const filter = (props) => {
   return (
     <div>
-      <input type="checkbox" name="vehicle1" value="Bike" /> I have a bike
-      <input type="checkbox" name="vehicle2" value="Car" /> I have a car
-      <input type="checkbox" name="vehicle3" value="Boat"  /> I have a boa
-      <input type="checkbox" name="vehicle3" value="Boat"  /> I have a boa
-      <input type="checkbox" name="vehicle3" value="Boat"  /> I have a boa
-      <input type="checkbox" name="vehicle3" value="Boat"  /> I have a boa
+      <div className="aldursbil">
+        <p>Aldursbil:</p>
+          {props.ages.map(age => {
+            return (
+              <a key={age} className={"button is-small is-rounded " + (props.selectedAges.includes(age) ? "is-primary" : null)}
+              onClick={() => props.onSelected(age, "ages")}>{age}</a>
+            );
+          })}
+      </div>
+      <div className="categories">
+        <p>Flokkur:</p>
+          {props.categories.map(cat => {
+            return (
+              <a key={cat} className={"button is-small is-rounded " + (props.selectedCategories.includes(cat) ? "is-primary" : null)}
+              onClick={() => props.onSelected(cat, "categories")}>{cat}</a>
+            );
+          })}
+      </div>
     </div>
-  )
+  );
 }
 
 export default filter;
