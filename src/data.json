@@ -1,8 +1,297 @@
 [
-  "Benni",
-  "Laddi",
-  "Brynjar",
-  "Grimur",
-  "Tryggvi",
-  "Liljar"
+	{
+		"title": "Plástra",
+		"badgePictureUrl": "",
+		"ages": [
+			"Drekaskátar",
+			"Fálkaskátar"
+		]
+	},
+	{
+		"title": "Hjálpa",
+		"badgePictureUrl": "",
+		"ages": [
+			"Fálkaskátar"
+		]
+	},
+	{
+		"title": "Bjarga",
+		"badgePictureUrl": "",
+		"ages": [
+			"Dróttskátar"
+		]
+	},
+	{
+		"title": "Neisti",
+		"badgePictureUrl": "",
+		"ages": [
+			"Drekaskátar",
+			"Fálkaskátar"
+		]
+	},
+	{
+		"title": "Logi",
+		"badgePictureUrl": "",
+		"ages": [
+			"Fálkaskátar"
+		]
+	},
+	{
+		"title": "Bál",
+		"badgePictureUrl": "",
+		"ages": [
+			"Fálkaskátar",
+			"Dróttskátar"
+		]
+	},
+	{
+		"title": "Hnýta",
+		"badgePictureUrl": "",
+		"ages": [
+			"Drekaskátar",
+			"Fálkaskátar"
+		]
+	},
+	{
+		"title": "Binda",
+		"badgePictureUrl": "",
+		"ages": [
+			"Fálkaskátar",
+			"Dróttskátar"
+		]
+	},
+	{
+		"title": "Byggja",
+		"badgePictureUrl": "",
+		"ages": [
+			"Fálkaskátar",
+			"Dróttskátar"
+		]
+	},
+	{
+		"title": "Skapa",
+		"badgePictureUrl": "",
+		"ages": [
+			"Drekaskátar",
+			"Fálkaskátar",
+			"Dróttskátar"
+		]
+	},
+	{
+		"title": "Laga",
+		"badgePictureUrl": "",
+		"ages": [
+			"Fálkaskátar",
+			"Dróttskátar"
+		]
+	},
+	{
+		"title": "Leysa",
+		"badgePictureUrl": "",
+		"ages": [
+			"Drekaskátar",
+			"Fálkaskátar"
+		]
+	},
+	{
+		"title": "Sviðslist",
+		"badgePictureUrl": "",
+		"ages": [
+			"Drekaskátar",
+			"Fálkaskátar",
+			"Dróttskátar"
+		]
+	},
+	{
+		"title": "Sjónlist",
+		"badgePictureUrl": "",
+		"ages": [
+			"Fálkaskátar",
+			"Dróttskátar"
+		]
+	},
+	{
+		"title": "Aðstoðarkokkur",
+		"badgePictureUrl": "",
+		"ages": [
+			"Drekaskátar",
+			"Fálkaskátar"
+		]
+	},
+	{
+		"title": "Kokkur",
+		"badgePictureUrl": "",
+		"ages": [
+			"Fálkaskátar"
+		]
+	},
+	{
+		"title": "Meistarakokkur",
+		"badgePictureUrl": "",
+		"ages": [
+			"Dróttskátar"
+		]
+	},
+	{
+		"title": "Blogga",
+		"badgePictureUrl": "",
+		"ages": [
+			"Fálkaskátar",
+			"Dróttskátar"
+		]
+	},
+	{
+		"title": "Spjalla",
+		"badgePictureUrl": "",
+		"ages": [
+			"Dróttskátar"
+		]
+	},
+	{
+		"title": "Ramba",
+		"badgePictureUrl": "",
+		"ages": [
+			"Drekaskátar",
+			"Fálkaskátar",
+			"Dróttskátar"
+		]
+	},
+	{
+		"title": "Rata",
+		"badgePictureUrl": "",
+		"ages": [
+			"Fálkaskátar",
+			"Dróttskátar"
+		]
+	},
+	{
+		"title": "Lýðræði",
+		"badgePictureUrl": "",
+		"ages": [
+			"Fálkaskátar",
+			"Dróttskátar"
+		]
+	},
+	{
+		"title": "Lífsskoðun",
+		"badgePictureUrl": "",
+		"ages": [
+			"Fálkaskátar",
+			"Dróttskátar"
+		]
+	},
+	{
+		"title": "Alþjóðaskátun: Læra",
+		"badgePictureUrl": "",
+		"ages": [
+			"Drekaskátar"
+		]
+	},
+	{
+		"title": "Alþjóðaskátun: Hlusta",
+		"badgePictureUrl": "",
+		"ages": [
+			"Fálkaskátar"
+		]
+	},
+	{
+		"title": "Alþjóðaskátun: Hitta",
+		"badgePictureUrl": "",
+		"ages": [
+			"Dróttskátar"
+		]
+	},
+	{
+		"title": "Góðborgari",
+		"badgePictureUrl": "",
+		"ages": [
+			"Drekaskátar",
+			"Fálkaskátar",
+			"Dróttskátar"
+		]
+	},
+	{
+		"title": "Heimsborgari",
+		"badgePictureUrl": "",
+		"ages": [
+			"Fálkaskátar",
+			"Dróttskátar"
+		]
+	},
+	{
+		"title": "Náttúrulega",
+		"badgePictureUrl": "",
+		"ages": [
+			"Drekaskátar",
+			"Fálkaskátar",
+			"Dróttskátar"
+		]
+	},
+	{
+		"title": "Úti á vatni",
+		"badgePictureUrl": "",
+		"ages": [
+			"Drekaskátar",
+			"Fálkaskátar",
+			"Dróttskátar"
+		]
+	},
+	{
+		"title": "Uppi á fjalli",
+		"badgePictureUrl": "",
+		"ages": [
+			"Drekaskátar",
+			"Fálkaskátar",
+			"Dróttskátar"
+		]
+	},
+	{
+		"title": "Úti í skógi",
+		"badgePictureUrl": "",
+		"ages": [
+			"Drekaskátar",
+			"Fálkaskátar",
+			"Dróttskátar"
+		]
+	},
+	{
+		"title": "Úti í bæ",
+		"badgePictureUrl": "",
+		"ages": [
+			"Drekaskátar",
+			"Fálkaskátar",
+			"Dróttskátar"
+		]
+	},
+	{
+		"title": "Úti í snjónum",
+		"badgePictureUrl": "",
+		"ages": [
+			"Drekaskátar",
+			"Fálkaskátar",
+			"Dróttskátar"
+		]
+	},
+	{
+		"title": "Flokka",
+		"badgePictureUrl": "",
+		"ages": [
+			"Drekaskátar"
+		]
+	},
+	{
+		"title": "Endurvinna",
+		"badgePictureUrl": "",
+		"ages": [
+			"Fálkaskátar"
+		]
+	},
+	{
+		"title": "Þá og nú",
+		"badgePictureUrl": "",
+		"ages": [
+			"Fálkaskátar",
+			"Dróttskátar"
+		]
+	}
 ]
