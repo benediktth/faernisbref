@@ -18,8 +18,8 @@ class App extends Component {
           <div className="columns is-multiline">
             {Data.map(item => {
               return (
-                <div key={item} className="column is-4">
-                  <Badge name={item} />
+                <div key={item.title} className="column is-4">
+                  <Badge item={item} />
                 </div>
               );
             })}
