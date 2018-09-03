@@ -6,12 +6,26 @@ import Filter from "./components/Filter.jsx";
 import Data from "./data.json";
 
 class App extends Component {
+  constructor(props) {
+    super(props);
+    this.state = {
+      selectedCategories: [],
+    }
+    this.changeSelected = this.changeSelected.bind(this);
+  }
+  
+  changeSelected(e) {
+    let newArray = this.state.selectedCategories;
+    newArray.push(e.target.value);
+    this.setState({selectedCategories: newArray});
+  }
+
   render() {
     return (
       <div className="page-container">
         <section>
           <div className="box">
-            <Filter />
+            <Filter onSelected={this.changeSelected}/>
           </div>
         </section>
         <section>
@@ -19,7 +33,7 @@ class App extends Component {
             {Data.map(item => {
               return (
                 <div key={item.title} className="column is-4">
-                  <Badge item={item} />
+                  <Badge item={item} selectedCategories={this.state.selectedCategories}/>
                 </div>
               );
             })}
@@ -27,23 +41,6 @@ class App extends Component {
         </section>
       </div>
     );
-    // return (
-    //   <div class="grid-container">
-    //     <div class="item1">
-    //       <Filter />
-    //     </div>
-    //       <div class="item2">
-    //         <div class="badge-container">
-    //           {Data.map(item => {
-    //             return (
-    //               <div class="badge-item">
-    //                 <Badge name={item} />
-    //               </div>
-    //             );})}
-    //       </div>
-    //     </div>
-    //   </div>
-    // );
   }
 }
 
