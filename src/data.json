@@ -2,7 +2,7 @@
 	{
 		"title": "Plástra",
 		"name": "plastra",
-		"badgePictureUrl": "http://www.skatamal.is/wp-content/uploads/2018/09/120px-M_plastra.jpg",
+		"badgePictureUrl": "https://www.skatamal.is/wp-content/uploads/2018/09/120px-M_plastra.jpg",
 		"ages": [
 			"Drekaskátar",
 			"Fálkaskátar"
@@ -14,7 +14,7 @@
 	{
 		"title": "Hjálpa",
 		"name": "hjalpa",
-		"badgePictureUrl": "http://www.skatamal.is/wp-content/uploads/2018/09/120px-M_hjalpa.jpg",
+		"badgePictureUrl": "https://www.skatamal.is/wp-content/uploads/2018/09/120px-M_hjalpa.jpg",
 		"ages": [
 			"Fálkaskátar"
 		]
@@ -22,7 +22,7 @@
 	{
 		"title": "Bjarga",
 		"name": "bjarga",
-		"badgePictureUrl": "http://www.skatamal.is/wp-content/uploads/2018/09/120px-M_radda.jpg",
+		"badgePictureUrl": "https://www.skatamal.is/wp-content/uploads/2018/09/120px-M_radda.jpg",
 		"ages": [
 			"Dróttskátar"
 		]
@@ -30,7 +30,7 @@
 	{
 		"title": "Neisti",
 		"name": "neisti",
-		"badgePictureUrl": "http://www.skatamal.is/wp-content/uploads/2018/09/120px-M_tanda.jpg",
+		"badgePictureUrl": "https://www.skatamal.is/wp-content/uploads/2018/09/120px-M_tanda.jpg",
 		"ages": [
 			"Drekaskátar",
 			"Fálkaskátar"
@@ -39,7 +39,7 @@
 	{
 		"title": "Logi",
 		"name": "logi",
-		"badgePictureUrl": "http://www.skatamal.is/wp-content/uploads/2018/09/120px-M_brinna.jpg",
+		"badgePictureUrl": "https://www.skatamal.is/wp-content/uploads/2018/09/120px-M_brinna.jpg",
 		"ages": [
 			"Fálkaskátar"
 		]
@@ -47,7 +47,7 @@
 	{
 		"title": "Bál",
 		"name": "bal",
-		"badgePictureUrl": "http://www.skatamal.is/wp-content/uploads/2018/09/120px-M_elda.jpg",
+		"badgePictureUrl": "https://www.skatamal.is/wp-content/uploads/2018/09/120px-M_elda.jpg",
 		"ages": [
 			"Fálkaskátar",
 			"Dróttskátar"
@@ -56,7 +56,7 @@
 	{
 		"title": "Hnýta",
 		"name": "hnyta",
-		"badgePictureUrl": "http://www.skatamal.is/wp-content/uploads/2018/09/120px-M_forsta_repmarket.jpg",
+		"badgePictureUrl": "https://www.skatamal.is/wp-content/uploads/2018/09/120px-M_forsta_repmarket.jpg",
 		"ages": [
 			"Drekaskátar",
 			"Fálkaskátar"
@@ -65,7 +65,7 @@
 	{
 		"title": "Binda",
 		"name": "binda",
-		"badgePictureUrl": "http://www.skatamal.is/wp-content/uploads/2018/09/120px-M_andra_repmarket.jpg",
+		"badgePictureUrl": "https://www.skatamal.is/wp-content/uploads/2018/09/120px-M_andra_repmarket.jpg",
 		"ages": [
 			"Fálkaskátar",
 			"Dróttskátar"
@@ -74,7 +74,7 @@
 	{
 		"title": "Byggja",
 		"name": "byggja",
-		"badgePictureUrl": "http://www.skatamal.is/wp-content/uploads/2018/09/120px-M_bygga.jpg",
+		"badgePictureUrl": "https://www.skatamal.is/wp-content/uploads/2018/09/120px-M_bygga.jpg",
 		"ages": [
 			"Fálkaskátar",
 			"Dróttskátar"
@@ -83,7 +83,7 @@
 	{
 		"title": "Skapa",
 		"name": "skapa",
-		"badgePictureUrl": "http://www.skatamal.is/wp-content/uploads/2018/09/M_skapa.jpg",
+		"badgePictureUrl": "https://www.skatamal.is/wp-content/uploads/2018/09/M_skapa.jpg",
 		"ages": [
 			"Drekaskátar",
 			"Fálkaskátar",
@@ -93,7 +93,7 @@
 	{
 		"title": "Laga",
 		"name": "laga",
-		"badgePictureUrl": "http://www.skatamal.is/wp-content/uploads/2018/09/M_fixa.jpg",
+		"badgePictureUrl": "https://www.skatamal.is/wp-content/uploads/2018/09/M_fixa.jpg",
 		"ages": [
 			"Fálkaskátar",
 			"Dróttskátar"
@@ -102,7 +102,7 @@
 	{
 		"title": "Leysa",
 		"name": "leysa",
-		"badgePictureUrl": "http://www.skatamal.is/wp-content/uploads/2018/09/120px-M_klura.jpg",
+		"badgePictureUrl": "https://www.skatamal.is/wp-content/uploads/2018/09/120px-M_klura.jpg",
 		"ages": [
 			"Drekaskátar",
 			"Fálkaskátar"
@@ -111,7 +111,7 @@
 	{
 		"title": "Sviðslist",
 		"name": "svidslist",
-		"badgePictureUrl": "http://www.skatamal.is/wp-content/uploads/2018/09/120px-M_spela.jpg",
+		"badgePictureUrl": "https://www.skatamal.is/wp-content/uploads/2018/09/120px-M_spela.jpg",
 		"ages": [
 			"Drekaskátar",
 			"Fálkaskátar",
@@ -121,7 +121,7 @@
 	{
 		"title": "Sjónlist",
 		"name": "sjonlist",
-		"badgePictureUrl": "http://www.skatamal.is/wp-content/uploads/2018/09/M_filma.jpg",
+		"badgePictureUrl": "https://www.skatamal.is/wp-content/uploads/2018/09/M_filma.jpg",
 		"ages": [
 			"Fálkaskátar",
 			"Dróttskátar"
@@ -130,7 +130,7 @@
 	{
 		"title": "Aðstoðarkokkur",
 		"name": "adstodarkokkur",
-		"badgePictureUrl": "http://www.skatamal.is/wp-content/uploads/2018/09/M_matettan.jpg",
+		"badgePictureUrl": "https://www.skatamal.is/wp-content/uploads/2018/09/M_matettan.jpg",
 		"ages": [
 			"Drekaskátar",
 			"Fálkaskátar"
@@ -139,7 +139,7 @@
 	{
 		"title": "Kokkur",
 		"name": "kokkur",
-		"badgePictureUrl": "http://www.skatamal.is/wp-content/uploads/2018/09/120px-M_mattvaan.jpg",
+		"badgePictureUrl": "https://www.skatamal.is/wp-content/uploads/2018/09/120px-M_mattvaan.jpg",
 		"ages": [
 			"Fálkaskátar"
 		]
@@ -147,7 +147,7 @@
 	{
 		"title": "Meistarakokkur",
 		"name": "meistarakokkur",
-		"badgePictureUrl": "http://www.skatamal.is/wp-content/uploads/2018/09/M_mattrean.jpg",
+		"badgePictureUrl": "https://www.skatamal.is/wp-content/uploads/2018/09/M_mattrean.jpg",
 		"ages": [
 			"Dróttskátar"
 		]
@@ -155,7 +155,7 @@
 	{
 		"title": "Blogga",
 		"name": "blogga",
-		"badgePictureUrl": "http://www.skatamal.is/wp-content/uploads/2018/09/M_blogga.jpg",
+		"badgePictureUrl": "https://www.skatamal.is/wp-content/uploads/2018/09/M_blogga.jpg",
 		"ages": [
 			"Fálkaskátar",
 			"Dróttskátar"
@@ -164,7 +164,7 @@
 	{
 		"title": "Spjalla",
 		"name": "spjalla",
-		"badgePictureUrl": "http://www.skatamal.is/wp-content/uploads/2018/09/120px-M_chatta.jpg",
+		"badgePictureUrl": "https://www.skatamal.is/wp-content/uploads/2018/09/120px-M_chatta.jpg",
 		"ages": [
 			"Dróttskátar"
 		]
@@ -172,7 +172,7 @@
 	{
 		"title": "Ramba",
 		"name": "ramba",
-		"badgePictureUrl": "http://www.skatamal.is/wp-content/uploads/2018/09/M_hitta.jpg",
+		"badgePictureUrl": "https://www.skatamal.is/wp-content/uploads/2018/09/M_hitta.jpg",
 		"ages": [
 			"Drekaskátar",
 			"Fálkaskátar",
@@ -182,7 +182,7 @@
 	{
 		"title": "Rata",
 		"name": "rata",
-		"badgePictureUrl": "http://www.skatamal.is/wp-content/uploads/2018/09/M_finna.jpg",
+		"badgePictureUrl": "https://www.skatamal.is/wp-content/uploads/2018/09/M_finna.jpg",
 		"ages": [
 			"Fálkaskátar",
 			"Dróttskátar"
@@ -191,7 +191,7 @@
 	{
 		"title": "Lýðræði",
 		"name": "lydraedi",
-		"badgePictureUrl": "http://www.skatamal.is/wp-content/uploads/2018/09/M_demokrati.jpg",
+		"badgePictureUrl": "https://www.skatamal.is/wp-content/uploads/2018/09/M_demokrati.jpg",
 		"ages": [
 			"Fálkaskátar",
 			"Dróttskátar"
@@ -200,7 +200,7 @@
 	{
 		"title": "Lífsskoðun",
 		"name": "lifsskodun",
-		"badgePictureUrl": "http://www.skatamal.is/wp-content/uploads/2018/09/120px-M_livsaskadning.jpg",
+		"badgePictureUrl": "https://www.skatamal.is/wp-content/uploads/2018/09/120px-M_livsaskadning.jpg",
 		"ages": [
 			"Fálkaskátar",
 			"Dróttskátar"
@@ -209,7 +209,7 @@
 	{
 		"title": "Alþjóðaskátun: Læra",
 		"name": "laera",
-		"badgePictureUrl": "http://www.skatamal.is/wp-content/uploads/2018/09/M_internationellt-lara.jpg",
+		"badgePictureUrl": "https://www.skatamal.is/wp-content/uploads/2018/09/M_internationellt-lara.jpg",
 		"ages": [
 			"Drekaskátar"
 		]
@@ -217,7 +217,7 @@
 	{
 		"title": "Alþjóðaskátun: Hlusta",
 		"name": "hlusta",
-		"badgePictureUrl": "http://www.skatamal.is/wp-content/uploads/2018/09/M_internationellt-lyssna.jpg",
+		"badgePictureUrl": "https://www.skatamal.is/wp-content/uploads/2018/09/M_internationellt-lyssna.jpg",
 		"ages": [
 			"Fálkaskátar"
 		]
@@ -225,7 +225,7 @@
 	{
 		"title": "Alþjóðaskátun: Hitta",
 		"name": "hitta",
-		"badgePictureUrl": "http://www.skatamal.is/wp-content/uploads/2018/09/M_internationellt-mota.jpg",
+		"badgePictureUrl": "https://www.skatamal.is/wp-content/uploads/2018/09/M_internationellt-mota.jpg",
 		"ages": [
 			"Dróttskátar"
 		]
@@ -233,7 +233,7 @@
 	{
 		"title": "Góðborgari",
 		"name": "godborgari",
-		"badgePictureUrl": "http://www.skatamal.is/wp-content/uploads/2018/09/M_goda-garningar.jpg",
+		"badgePictureUrl": "https://www.skatamal.is/wp-content/uploads/2018/09/M_goda-garningar.jpg",
 		"ages": [
 			"Drekaskátar",
 			"Fálkaskátar",
@@ -243,7 +243,7 @@
 	{
 		"title": "Heimsborgari",
 		"name": "heimsborgari",
-		"badgePictureUrl": "http://www.skatamal.is/wp-content/uploads/2018/09/M_varldsforbattrare.jpg",
+		"badgePictureUrl": "https://www.skatamal.is/wp-content/uploads/2018/09/M_varldsforbattrare.jpg",
 		"ages": [
 			"Fálkaskátar",
 			"Dróttskátar"
@@ -252,7 +252,7 @@
 	{
 		"title": "Náttúrulega",
 		"name": "natturulega",
-		"badgePictureUrl": "http://www.skatamal.is/wp-content/uploads/2018/09/M_naturligt.jpg",
+		"badgePictureUrl": "https://www.skatamal.is/wp-content/uploads/2018/09/M_naturligt.jpg",
 		"ages": [
 			"Drekaskátar",
 			"Fálkaskátar",
@@ -262,7 +262,7 @@
 	{
 		"title": "Úti á vatni",
 		"name": "uti-a-vatni",
-		"badgePictureUrl": "http://www.skatamal.is/wp-content/uploads/2018/09/M_ute-vatten.jpg",
+		"badgePictureUrl": "https://www.skatamal.is/wp-content/uploads/2018/09/M_ute-vatten.jpg",
 		"ages": [
 			"Drekaskátar",
 			"Fálkaskátar",
@@ -272,7 +272,7 @@
 	{
 		"title": "Uppi á fjalli",
 		"name": "uppi-a-fjalli",
-		"badgePictureUrl": "http://www.skatamal.is/wp-content/uploads/2018/09/M_ute-fjallet.jpg",
+		"badgePictureUrl": "https://www.skatamal.is/wp-content/uploads/2018/09/M_ute-fjallet.jpg",
 		"ages": [
 			"Drekaskátar",
 			"Fálkaskátar",
@@ -282,7 +282,7 @@
 	{
 		"title": "Úti í skógi",
 		"name": "uti-i-skogi",
-		"badgePictureUrl": "http://www.skatamal.is/wp-content/uploads/2018/09/M_ute-skogen.jpg",
+		"badgePictureUrl": "https://www.skatamal.is/wp-content/uploads/2018/09/M_ute-skogen.jpg",
 		"ages": [
 			"Drekaskátar",
 			"Fálkaskátar",
@@ -292,7 +292,7 @@
 	{
 		"title": "Úti í bæ",
 		"name": "uti-i-bae",
-		"badgePictureUrl": "http://www.skatamal.is/wp-content/uploads/2018/09/M_ute-staden.jpg",
+		"badgePictureUrl": "https://www.skatamal.is/wp-content/uploads/2018/09/M_ute-staden.jpg",
 		"ages": [
 			"Drekaskátar",
 			"Fálkaskátar",
@@ -302,7 +302,7 @@
 	{
 		"title": "Úti í snjónum",
 		"name": "uti-i-snjonum",
-		"badgePictureUrl": "http://www.skatamal.is/wp-content/uploads/2018/09/M_ute-vinter1.jpg",
+		"badgePictureUrl": "https://www.skatamal.is/wp-content/uploads/2018/09/M_ute-vinter1.jpg",
 		"ages": [
 			"Drekaskátar",
 			"Fálkaskátar",
@@ -312,7 +312,7 @@
 	{
 		"title": "Flokka",
 		"name": "flokka",
-		"badgePictureUrl": "http://www.skatamal.is/wp-content/uploads/2018/09/M_sortera.jpg",
+		"badgePictureUrl": "https://www.skatamal.is/wp-content/uploads/2018/09/M_sortera.jpg",
 		"ages": [
 			"Drekaskátar"
 		]
@@ -320,7 +320,7 @@
 	{
 		"title": "Endurvinna",
 		"name": "endurvinna",
-		"badgePictureUrl": "http://www.skatamal.is/wp-content/uploads/2018/09/M_atervinn.jpg",
+		"badgePictureUrl": "https://www.skatamal.is/wp-content/uploads/2018/09/M_atervinn.jpg",
 		"ages": [
 			"Fálkaskátar"
 		]
@@ -328,7 +328,7 @@
 	{
 		"title": "Þá og nú",
 		"name": "ta-og-nu",
-		"badgePictureUrl": "http://www.skatamal.is/wp-content/uploads/2018/09/M_da_och_nu.jpg",
+		"badgePictureUrl": "https://www.skatamal.is/wp-content/uploads/2018/09/M_da_och_nu.jpg",
 		"ages": [
 			"Fálkaskátar",
 			"Dróttskátar"
