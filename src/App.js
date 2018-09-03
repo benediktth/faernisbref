@@ -53,10 +53,10 @@ class App extends Component {
           </div>
         </section>
         <section>
-          <div className="columns is-multiline">
+          <div className="columns is-multiline is-tablet">
             {this.state.Data.map(item => {
               return (
-                <div key={item.title} className={"column is-3 " + (this.state.isHovering[item.title] ? "box-shadow" : null)}>
+                <div key={item.title} className={"column is-full-mobile is-one-third-tablet is-one-quarter-desktop" + (this.state.isHovering[item.title] ? "box-shadow" : null)}>
                   <Badge item={item} selectedCategories={this.state.selectedCategories} hover={this.toggleHover}/>
                 </div>
               );
