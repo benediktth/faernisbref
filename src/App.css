@@ -12,6 +12,9 @@
 
 .card-image {
   padding: 10px 40px;
+  margin: auto;
+  height: 250;
+  width: 250px;
 }
 
 .card-content .content ul {
