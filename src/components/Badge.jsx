@@ -1,13 +1,13 @@
 import React from "react";
 
 const badge = props => {
-  if (props.selectedCategories.includes("utivera")) {
+  // if (props.selectedCategories.includes("utivera")) {
     return (
       <div className="card">
         <div className="card-image">
-          <figure className="image">
+          <figure className="image is-254x254">
             <img
-              src="https://dds.dk/sites/default/files/2018-06/B%C3%A5l%405x.png"
+              src={props.item.badgePictureUrl}
               alt="Placeholder image"
             />
           </figure>
@@ -22,16 +22,16 @@ const badge = props => {
           <div className="content">
             <ul>
               {props.item.ages.map(item => (
-                <li>{item}</li>
+                <li key={item}>{item}</li>
               ))}
             </ul>
           </div>
         </div>
       </div>
     );
-  } else {
-    return null;
-  }
+  // } else {
+  //   return null;
+  // }
 };
 
 export default badge;

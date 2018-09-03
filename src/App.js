@@ -15,12 +15,21 @@ class App extends Component {
   }
   
   changeSelected(e) {
-    let newArray = this.state.selectedCategories;
-    newArray.push(e.target.value);
-    this.setState({selectedCategories: newArray});
+    if (this.state.selectedCategories.includes(e.target.value)){
+      let newArray = this.state.selectedCategories;
+      let index = newArray.indexOf(e.target.value);
+      newArray.splice(index, 1);
+      this.setState({selectedCategories: newArray});
+    } else {
+
+      let newArray = this.state.selectedCategories;
+      newArray.push(e.target.value);
+      this.setState({selectedCategories: newArray});
+    }
   }
 
   render() {
+    console.log(this.state.selectedCategories);
     return (
       <div className="page-container">
         <section>
@@ -32,7 +41,7 @@ class App extends Component {
           <div className="columns is-multiline">
             {Data.map(item => {
               return (
-                <div key={item.title} className="column is-4">
+                <div key={item.title} className="column is-3">
                   <Badge item={item} selectedCategories={this.state.selectedCategories}/>
                 </div>
               );
