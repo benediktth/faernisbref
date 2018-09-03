@@ -9,9 +9,13 @@ class App extends Component {
   constructor(props) {
     super(props);
     this.state = {
-      selectedCategories: [],
-      isHovering:{}
+      ages: [],
+      categories: [],
+      isHovering:{},
+      Data: Data
     }
+    this.ages = [...new Set([].concat.apply([], Data.map(({ ages }) => ages)))];
+    this.categories = [...new Set([].concat.apply([], Data.map(({ categories }) => categories && categories.filter(category => !!category) || [])))];
     this.changeSelected = this.changeSelected.bind(this);
     this.toggleHover = this.toggleHover.bind(this);
   }
@@ -22,18 +26,22 @@ class App extends Component {
     this.setState({isHovering: newObj});
   }
 
-  changeSelected(name) {
-    if (this.state.selectedCategories.includes(name)){
-      let newArray = this.state.selectedCategories;
+  changeSelected(name, type) {
+    if (this.state[type].includes(name)){
+      let newArray = this.state[type];
       let index = newArray.indexOf(name);
       newArray.splice(index, 1);
-      this.setState({selectedCategories: newArray});
+      this.setState({[type]: newArray});
     } else {
-
-      let newArray = this.state.selectedCategories;
+      let newArray = this.state[type];
       newArray.push(name);
-      this.setState({selectedCategories: newArray});
+      this.setState({[type]: newArray});
     }
+    let newData =
+    Data
+			.filter(({ ages }) => this.state.ages.length ? (ages || []).some(age => this.state.ages.includes(age)) : true)
+      .filter(({ categories }) => this.state.categories.length ? (categories || []).some(category => this.state.categories.includes(category)) : true);
+    this.setState({Data: newData});
   }
 
   render() {
@@ -41,12 +49,12 @@ class App extends Component {
       <div className="page-container">
         <section>
           <div className="box">
-            <Filter onSelected={this.changeSelected} selectedCategories={this.state.selectedCategories}/>
+            <Filter ages={this.ages} categories={this.categories} onSelected={this.changeSelected} selectedCategories={this.state.categories} selectedAges={this.state.ages}/>
           </div>
         </section>
         <section>
           <div className="columns is-multiline">
-            {Data.map(item => {
+            {this.state.Data.map(item => {
               return (
                 <div key={item.title} className={"column is-3 " + (this.state.isHovering[item.title] ? "box-shadow" : null)}>
                   <Badge item={item} selectedCategories={this.state.selectedCategories} hover={this.toggleHover}/>

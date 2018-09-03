@@ -2,16 +2,16 @@ import React from "react";
 
 const badge = props => {
   // if (props.selectedCategories.includes("utivera")) {
-    return (
-      <div className="card" 
+  return (
+    <a href={"http://www.skatamal.is/faernimerki/" + props.item.name}>
+      <div
+        className="card"
         onMouseEnter={() => props.hover(props.item.title, true)}
-        onMouseLeave={() => props.hover(props.item.title, false)}>
+        onMouseLeave={() => props.hover(props.item.title, false)}
+      >
         <div className="card-image">
-          <figure className="image">
-            <img
-              src={props.item.badgePictureUrl}
-              alt="Placeholder image"
-            />
+          <figure className="image is-1by1">
+            <img src={props.item.badgePictureUrl} alt="Placeholder image"/>
           </figure>
         </div>
         <div className="card-content">
@@ -30,7 +30,8 @@ const badge = props => {
           </div>
         </div>
       </div>
-    );
+    </a>
+  );
   // } else {
   //   return null;
   // }

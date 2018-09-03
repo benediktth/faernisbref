@@ -261,7 +261,7 @@
 	},
 	{
 		"title": "Úti á vatni",
-		"name": "vatni",
+		"name": "uti-a-vatni",
 		"badgePictureUrl": "http://www.skatamal.is/wp-content/uploads/2018/09/M_ute-vatten.jpg",
 		"ages": [
 			"Drekaskátar",
@@ -271,7 +271,7 @@
 	},
 	{
 		"title": "Uppi á fjalli",
-		"name": "fjalli",
+		"name": "uppi-a-fjalli",
 		"badgePictureUrl": "http://www.skatamal.is/wp-content/uploads/2018/09/M_ute-fjallet.jpg",
 		"ages": [
 			"Drekaskátar",
@@ -281,7 +281,7 @@
 	},
 	{
 		"title": "Úti í skógi",
-		"name": "skogi",
+		"name": "uti-i-skogi",
 		"badgePictureUrl": "http://www.skatamal.is/wp-content/uploads/2018/09/M_ute-skogen.jpg",
 		"ages": [
 			"Drekaskátar",
@@ -291,7 +291,7 @@
 	},
 	{
 		"title": "Úti í bæ",
-		"name": "bae",
+		"name": "uti-i-bae",
 		"badgePictureUrl": "http://www.skatamal.is/wp-content/uploads/2018/09/M_ute-staden.jpg",
 		"ages": [
 			"Drekaskátar",
@@ -301,7 +301,7 @@
 	},
 	{
 		"title": "Úti í snjónum",
-		"name": "snjonum",
+		"name": "uti-i-snjonum",
 		"badgePictureUrl": "http://www.skatamal.is/wp-content/uploads/2018/09/M_ute-vinter1.jpg",
 		"ages": [
 			"Drekaskátar",
@@ -327,7 +327,7 @@
 	},
 	{
 		"title": "Þá og nú",
-		"name": "taognu",
+		"name": "ta-og-nu",
 		"badgePictureUrl": "http://www.skatamal.is/wp-content/uploads/2018/09/M_da_och_nu.jpg",
 		"ages": [
 			"Fálkaskátar",
